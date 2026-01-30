@@ -4,6 +4,8 @@
 **Course:** COMPSS 211: Advanced Computing, University of California, Berkeley <br>
 **Date:** December 12, 2025
 
+[View the Full Presentation (PDF)](Final_presentation.pdf)
+
 ---
 
 ## Project Overview
